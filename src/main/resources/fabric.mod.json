@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "lily-or",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Ores Reforged",
+  "description": "Fabric modification for Minecraft making mining more realistic and challenging",
   "authors": [
-    "Me!"
+    "Lily56"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/lil56/OresReforged"
   },
 
-  "license": "CC0-1.0",
+  "license": "GNU-GPL-3",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
