@@ -1,4 +1,4 @@
-# Welcome to Ores Reforged on GitHub
+# Ores Reforged
 
 ## Setup
 
@@ -7,7 +7,3 @@ For mod installation instructions please see the [fabric wiki page](https://fabr
 ## License
 
 This Minecraft modification is licensed under the [MMPL-1.0 License](https://mod-buildcraft.com/MMPL-1.0.txt)
-
-
-## Compiling and packaging OresReforged
-WIP
