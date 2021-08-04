@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Ores Reforged
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+For mod installation instructions please see the [fabric wiki page](https://fabricmc.net/use)
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This Minecraft modification is licensed under the [MMPL-1.0 License](https://mod-buildcraft.com/MMPL-1.0.txt)
