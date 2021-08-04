@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "lily-or",
+  "id": "oresreforged",
   "version": "${version}",
 
   "name": "Ores Reforged",
@@ -13,8 +13,8 @@
     "sources": "https://github.com/lil56/OresReforged"
   },
 
-  "license": "MMPL",
-  "icon": "assets/lily-or/icon.png",
+  "license": "MMPL-1.0",
+  "icon": "assets/oresreforged/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -32,6 +32,6 @@
     "java": ">=16"
   },
   "suggests": {
-    "another-mod": "*"
+    "another-mod": ""
   }
 }
