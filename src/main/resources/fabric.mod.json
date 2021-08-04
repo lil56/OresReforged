@@ -13,7 +13,7 @@
     "sources": "https://github.com/lil56/OresReforged"
   },
 
-  "license": "GNU-GPL-3",
+  "license": "MMPL",
   "icon": "assets/lily-or/icon.png",
 
   "environment": "*",
