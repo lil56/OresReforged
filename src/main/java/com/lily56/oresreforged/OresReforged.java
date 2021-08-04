@@ -1,5 +1,6 @@
 package com.lily56.oresreforged;
 
+import com.lily56.oresreforged.registry.ModBlocks;
 import com.lily56.oresreforged.registry.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -11,6 +12,6 @@ public class OresReforged implements ModInitializer {
 
     public void onInitialize() {
         ModItems.registerItems();
-
+        ModBlocks.registerBlocks();
     }
 }
