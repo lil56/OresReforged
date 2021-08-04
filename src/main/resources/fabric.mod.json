@@ -14,16 +14,15 @@
   },
 
   "license": "GNU-GPL-3",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/lily-or/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.lily56.oresreforged.OresReforged"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
