@@ -13,10 +13,11 @@ public class ModItems {
     public static final Item BAUXITE_DUST = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
 
     //Block Items
-    //public static final BlockItem
+    public static final BlockItem BAUXITE_ORE = new BlockItem(ModBlocks.BAUXITE_ORE, new item.Settings().group(ItemGroup.BUILDING_BLOCKS));
 
     //Register
     public static void registerItems() {
         Registry.register(Registry.ITEM, new Identifier(OresReforged.MOD_ID, "bauxite_dust"), BAUXITE_DUST);
+        Registry.register(Registry.ITEM, new Identifier(OresReforged.MOD_ID, "bauxite_ore"), BAUXITE_ORE);
     }
 }
